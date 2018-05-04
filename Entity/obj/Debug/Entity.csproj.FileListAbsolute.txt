@@ -1,0 +1,11 @@
+C:\Users\Onur\Documents\Visual Studio 2017\Projects\ParkingAreaWebApi\Entity\bin\Debug\Entity.dll.config
+C:\Users\Onur\Documents\Visual Studio 2017\Projects\ParkingAreaWebApi\Entity\bin\Debug\Entity.dll
+C:\Users\Onur\Documents\Visual Studio 2017\Projects\ParkingAreaWebApi\Entity\bin\Debug\Entity.pdb
+C:\Users\Onur\Documents\Visual Studio 2017\Projects\ParkingAreaWebApi\Entity\bin\Debug\EntityFramework.dll
+C:\Users\Onur\Documents\Visual Studio 2017\Projects\ParkingAreaWebApi\Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Onur\Documents\Visual Studio 2017\Projects\ParkingAreaWebApi\Entity\bin\Debug\EntityFramework.xml
+C:\Users\Onur\Documents\Visual Studio 2017\Projects\ParkingAreaWebApi\Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Onur\Documents\Visual Studio 2017\Projects\ParkingAreaWebApi\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+C:\Users\Onur\Documents\Visual Studio 2017\Projects\ParkingAreaWebApi\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\Onur\Documents\Visual Studio 2017\Projects\ParkingAreaWebApi\Entity\obj\Debug\Entity.dll
+C:\Users\Onur\Documents\Visual Studio 2017\Projects\ParkingAreaWebApi\Entity\obj\Debug\Entity.pdb

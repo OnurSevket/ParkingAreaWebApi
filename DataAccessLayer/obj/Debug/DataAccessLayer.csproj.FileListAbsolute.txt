@@ -1,0 +1,8 @@
+C:\Users\Onur\Documents\Visual Studio 2017\Projects\ParkingAreaWebApi\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Onur\Documents\Visual Studio 2017\Projects\ParkingAreaWebApi\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Onur\Documents\Visual Studio 2017\Projects\ParkingAreaWebApi\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Onur\Documents\Visual Studio 2017\Projects\ParkingAreaWebApi\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Onur\Documents\Visual Studio 2017\Projects\ParkingAreaWebApi\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Onur\Documents\Visual Studio 2017\Projects\ParkingAreaWebApi\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Onur\Documents\Visual Studio 2017\Projects\ParkingAreaWebApi\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Onur\Documents\Visual Studio 2017\Projects\ParkingAreaWebApi\DataAccessLayer\bin\Debug\System.Configuration.ConfigurationManager.dll

@@ -1,0 +1,6 @@
+C:\Users\Onur\Documents\Visual Studio 2017\Projects\ParkingAreaWebApi\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Onur\Documents\Visual Studio 2017\Projects\ParkingAreaWebApi\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Onur\Documents\Visual Studio 2017\Projects\ParkingAreaWebApi\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Onur\Documents\Visual Studio 2017\Projects\ParkingAreaWebApi\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Onur\Documents\Visual Studio 2017\Projects\ParkingAreaWebApi\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Onur\Documents\Visual Studio 2017\Projects\ParkingAreaWebApi\BusinessLayer\obj\Debug\BusinessLayer.pdb
