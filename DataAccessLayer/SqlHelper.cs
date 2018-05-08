@@ -11,6 +11,7 @@ namespace DataAccessLayer
 {
     public static class SqlHelper
     {
+        //SVN Commit GİTHUB isThisTrue
         public static Func<DbConnection> ConnectionFactory = () => new SqlConnection(ConnectionString.Connection);
 
         public static class ConnectionString
