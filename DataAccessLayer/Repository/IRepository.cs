@@ -11,13 +11,15 @@ namespace DataAccessLayer.Repository
     {
 
         TEntity Get(int Id);
-        //TEntity Get(Expression<Func<TEntity, bool>> where);
         ICollection<TEntity> GetAll();
-        //IEnumerable<TEntity> GetAll(Expression<Func<TEntity, bool>> where);
         int InsertorUpdate(TEntity entity);
         int Insert(TEntity entity, out int? insertedId);
         bool Delete(TEntity entity);
+
+
         //bool Delete(Expression<Func<TEntity, bool>> where);
+        //IEnumerable<TEntity> GetAll(Expression<Func<TEntity, bool>> where);
+        //TEntity Get(Expression<Func<TEntity, bool>> where);
 
 
     }
