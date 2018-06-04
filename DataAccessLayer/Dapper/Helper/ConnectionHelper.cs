@@ -10,7 +10,7 @@ namespace DataAccessLayer.Dapper.Helper
 {
     public class ConnectionHelper
     {
-
+        //Test Push
         public static SqlConnection SqlServerConnection()
         {
             return new SqlConnection(ConfigurationManager.ConnectionStrings["OnlineStoreContext"].ConnectionString);
