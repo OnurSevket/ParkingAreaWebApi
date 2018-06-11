@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace DataAccessLayer.Contracts
 {
-    public interface IParkAreaRepository:IGenericRepository<ParkArea>
+    public interface IParkAreaRepository : IGenericRepository<ParkArea>
     {
 
 
