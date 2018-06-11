@@ -9,10 +9,11 @@
 
 namespace Entity
 {
+    using Core.Contracts.Entities;
     using System;
     using System.Collections.Generic;
-    
-    public partial class ParkArea
+
+    public partial class ParkArea : IEntity
     {
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors")]
         public ParkArea()
@@ -20,7 +21,7 @@ namespace Entity
             this.ParkAreaWithOwners = new HashSet<ParkAreaWithOwner>();
             this.Pricings = new HashSet<Pricing>();
         }
-    
+
         public int Id { get; set; }
         public string ParkName { get; set; }
         public int MaxCount { get; set; }
@@ -31,7 +32,7 @@ namespace Entity
         public string Coordinate { get; set; }
         public Nullable<System.DateTime> CreatedDate { get; set; }
         public bool Status { get; set; }
-    
+
         public virtual Customer Customer { get; set; }
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
         public virtual ICollection<ParkAreaWithOwner> ParkAreaWithOwners { get; set; }
